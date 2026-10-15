@@ -60,8 +60,8 @@ Our infrastructure and application architectures strictly adhere to:
 
 ## 📬 Connect With Us
 
-* 🌐 **Website**: [pathwaysolutions.so](https://www.pathwaysolutions.so)
-* 📧 **Email**: [info@pathwaysolutions.so](mailto:info@pathwaysolutions.so) / info@netsom.so
+* 🌐 **Website**: [pathwaysolution.so](https://www.pathwaysolution.so)
+* 📧 **Email**: [info@pathwaysolution.so](mailto:info@pathwaysolution.so) / info@netsom.so
 * 📞 **Phone**: +252 61 218 5778
 * 📍 **Headquarters**: Trepiano, Maka Al-Mukarramah Street, Waberi District, Mogadishu, Somalia
 
